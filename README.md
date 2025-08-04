@@ -71,8 +71,4 @@ Mediante `feature_importances_` se identificaron las variables con mayor influen
 
 La cancelación de clientes puede predecirse de forma confiable utilizando modelos como Random Forest. Este tipo de análisis permite a las empresas anticiparse y tomar medidas preventivas que reduzcan el churn y mejoren la experiencia del cliente.
 
----
 
-## 📊 Gráfico de Importancia de Variables
-
-![Importancia de Variables](importancia_variables_rf.png)
